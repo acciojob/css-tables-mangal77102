@@ -7,7 +7,7 @@ th,
 td {
   border: 1px solid #ccc;
   border-radius: 5px;
-  padding: 8px; /* 0.5rem = 8px (Cypress expects px) */
+  padding: 0.5rem;
 }
 
 /* Odd rows */
@@ -19,4 +19,5 @@ tr:nth-child(odd) td {
 tr:nth-child(even) td {
   background-color: #ffffff;
 }
+
 
