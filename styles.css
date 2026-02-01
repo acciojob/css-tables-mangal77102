@@ -1,23 +1,4 @@
-table {
-  border-collapse: separate;
-  border-spacing: 0;
-}
 
-th,
-td {
-  border: 1px solid #ccc;
-  border-radius: 5px;
-  padding: 0.5rem;
-}
 
-/* Odd rows */
-tr:nth-child(odd) td {
-  background-color: #f2f2f2;
-}
-
-/* Even rows */
-tr:nth-child(even) td {
-  background-color: #ffffff;
-}
 
 
